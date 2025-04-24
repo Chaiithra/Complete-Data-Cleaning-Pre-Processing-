@@ -1,5 +1,4 @@
 # Complete-Data-Cleaning-Pre-Processing
-Here's a **professional and comprehensive README.md** for your Titanic dataset notebook, suitable for GitHub submission. It's crafted based on the full structured outline you shared via screenshots and represents a well-documented, modular, and systematic EDA + preprocessing pipeline.
 
 ---
 
