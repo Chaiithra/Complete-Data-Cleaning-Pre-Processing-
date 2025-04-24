@@ -171,7 +171,7 @@ jupyter notebook Titanic_EDA_Preprocessing.ipynb
 ## 📧 Contact
 
 Made with ❤️ by [Chaiithra Thota]  
-📫 Connect on LinkedIn: [linkedin.com/in/chaiithrathota](#)
+📫 Connect on LinkedIn: [https://www.linkedin.com/in/chaiithrathota/)](#)
 
 ---
 
