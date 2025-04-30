@@ -195,7 +195,7 @@ Outliers were removed using the **Z-score method** with a threshold of 3 for con
 
 ### Clone the Repo
 ```bash
-git clone https://github.com/your-username/titanic-eda.git
+git clone https://github.com/Chaiithra/Complete-Data-Cleaning-and-Pre-Processing.git
 ```
 
 ### Navigate to Project Directory
